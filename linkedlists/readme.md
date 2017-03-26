@@ -1,0 +1,3 @@
+- [LinkedList](./index.js)
+- [Remove Items from LinkedList](./removeItems.js)
+- [Remove Duplicates from LinkedList](./removeDupes.js)

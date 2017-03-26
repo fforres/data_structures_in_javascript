@@ -1,5 +1,30 @@
-# data_structures_in_javascript
+# Data Structures In Javascript
 
+### Data Structures
+- [x] Linked Lists
+- [x] Tries
+- [ ] Graphs
+- [ ] Trees
+- [x] Stacks
+- [x] Queues
+- [ ] Heaps
+- [ ] Vectors
+- [ ] ArrayLists
+- [ ] HashTables
+
+### Algorighms
+- [ ] BFSearch
+- [ ] DFSearch
+- [ ] BinartSearch
+- [ ] MergeSort
+- [ ] QuickSort
+
+### Concepts
+- [ ] Bit Manipulation
+- [ ] Memory (Stack vs Heap)
+- [ ] Recursion
+- [ ] Dynamic Programming
+- [ ] Big O notation (time and space)
 
 TODO:
 
