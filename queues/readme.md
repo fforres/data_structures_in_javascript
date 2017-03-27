@@ -1,1 +1,1 @@
-- [Stacks](./index.js)
+- [Queues](./index.js)

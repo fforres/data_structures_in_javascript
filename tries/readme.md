@@ -1,1 +1,1 @@
-- [Stacks](./index.js)
+- [Tries](./index.js)
